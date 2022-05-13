@@ -97,7 +97,7 @@ nav li a {
 }
 
 nav li a:hover {
-    border-bottom-color: #ff1e97;
+    border-bottom-color: #1B365C;
 }
 
 header {
@@ -151,7 +151,7 @@ header {
 }
 
 #headerpost {
-    background-color: #333333;
+    background-color: #FFEF92;
     background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#888888));
     background: -webkit-linear-gradient(#000000 0%, #888888 100%);
     background: -moz-linear-gradient(#000000 0%, #888888 100%);
@@ -196,7 +196,7 @@ header {
     color: #ffffff;
     font-size: 14px;
     font-family: 'Macen Pro', Helvetica, Arial, sans-serif;
-    background-color: #666666;
+    background-color: #FFF4A7;
     background-image: url(img/more.png);
     background-size: 16px;
     background-repeat: no-repeat;
@@ -206,7 +206,7 @@ header {
 }
 
 .post a {
-    color: #000000;
+    color: #1B365C;
     text-decoration: none;
     display: block;
     overflow: hidden;
