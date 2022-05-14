@@ -209,7 +209,12 @@ header {
 
 .post a:hover {
     background-color: #cfffb2
-}
+}background: -webkit-gradient(linear, left top, left bottom, from(##FFD97F), to(##FFD97F));
+    background: -webkit-linear-gradient(##FFD97F 100%);
+    background: -moz-linear-gradient(##FFD97F 100%);
+    background: -o-linear-gradient(##FFD97F 100%);
+    background: -ms-linear-gradient(##FFD97F 100%);
+    background: linear-gradient(##FFD97F 100%);
 
 
 
